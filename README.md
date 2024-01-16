@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/OrVVIBO.jpg)
+![Imgur](https://i.imgur.com/w4zTiXs.jpg)
 
 <!--
 **reiduf/reiduf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
