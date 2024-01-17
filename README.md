@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **React and the MERN stack, TypeScript**
 
-- 💬 Ask me about **🛳️CRUISES🛳️ !** My family and I have an addiction. I've been on 17 total!
+- 📦 Check out my past life as a Structural Packaging Designer! [https://www.reina-dufrene.com/](https://www.reina-dufrene.com/)
+
+- 💬 Ask me about **🛳️ CRUISES 🛳️ !** My family and I have an addiction. I've been on 17 total!
 
 - 📫 How to reach me **reina.dufrene@gmail.com**
 
