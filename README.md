@@ -8,6 +8,8 @@
 
 - 📫 Say hi, send me cat/dog/food/cat food pics: **reina.dufrene@gmail.com**
 
+- ❤️ I love: learning about frontend animations, a good pun, and anything with potatoes in it
+
 - ⚡ Fun facts!
 1. I learned at the ripe age of 21 that narwhals are, in fact, real animals and not mythical creatures 🐋🦄
 2. I am half Filipina 🇵🇭! I'm closely guarding my mom's lumpia recipe 🤤
