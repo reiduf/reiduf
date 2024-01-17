@@ -6,7 +6,7 @@
 
 - 📦 Check out my past life in print as a Structural Packaging Designer! [Fancy Design Portfolio](https://www.reina-dufrene.com/)
 
-- 💬 Ask me about **🛳️ CRUISES 🛳️ !** My family and I have an addiction. I've been on 17 total!
+- 💬 Ask me about **🛳️ CRUISES🛳️ !** My family and I have an addiction. I've been on 17 total!
 
 - 📫 Say hi, send me cat/dog/food/cat food pics: **reina.dufrene@gmail.com**
 
