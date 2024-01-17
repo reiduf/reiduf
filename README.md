@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **React and the MERN stack, TypeScript**
 
-- 💬 Ask me about **cruises 🛳️!** My family and I have an addiction. I've been on 17 total!
+- 💬 Ask me about **🛳️CRUISES🛳️ !** My family and I have an addiction. I've been on 17 total!
 
 - 📫 How to reach me **reina.dufrene@gmail.com**
 
 - ⚡ Fun facts!
-1. I learned at the ripe age of 21 that narwhals are, in fact, real animals and not mythical creatures 🐋
-2. I am half Filipina! I'm closely guarding my mom's lumpia recipe 🤤
+1. I learned at the ripe age of 21 that narwhals are, in fact, real animals and not mythical creatures 🐋🦄
+2. I am half Filipina 🇵🇭! I'm closely guarding my mom's lumpia recipe 🤤
 3. My brother is a professional baseball player in the MLB! ⚾
 
 <h3 align="left">Connect with me:</h3>
