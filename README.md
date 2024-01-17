@@ -2,13 +2,13 @@
 
 <h1 align="center">Hey there!</h1>
 
-- 🌱 I’m currently learning **React and the MERN stack, TypeScript**
+- 🌱 I’m currently learning: **React and TypeScript**
 
-- 📦 Check out my past life as a Structural Packaging Designer! [https://www.reina-dufrene.com/](https://www.reina-dufrene.com/)
+- 📦 Check out my past life in print as a Structural Packaging Designer! [Fancy Design Portfolio](https://www.reina-dufrene.com/)
 
 - 💬 Ask me about **🛳️ CRUISES 🛳️ !** My family and I have an addiction. I've been on 17 total!
 
-- 📫 How to reach me **reina.dufrene@gmail.com**
+- 📫 Say hi, send me cat/dog/food/cat food pics: **reina.dufrene@gmail.com**
 
 - ⚡ Fun facts!
 1. I learned at the ripe age of 21 that narwhals are, in fact, real animals and not mythical creatures 🐋🦄
