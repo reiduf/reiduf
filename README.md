@@ -1,6 +1,7 @@
 ![Imgur](https://i.imgur.com/w4zTiXs.jpg)
 
-<h1 align="center">Hi 👋, I'm Reina DuFrene</h1>
+<h1 align="center">Reina DuFrene</h1>
+
 - 🌱 I’m currently learning **React and the MERN stack, TypeScript**
 
 - 💬 Ask me about **cruises 🛳️!** My family and I have an addiction. I've been on 17 total!
