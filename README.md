@@ -1,7 +1,7 @@
 ![Imgur](https://i.imgur.com/w4zTiXs.jpg)
 - 👩‍💻 I'm currently working on: Community Scavenger Hunt application (Solo project | Estimated completion date: 2/4/24 | Full stack: MongoDB/mongoose, Express, React, Node, TailwindCSS)
 
-- 🌱 I’m currently learning: **React and TypeScript**
+- 🌱 I’m currently learning: **TypeScript, with plans to learn React Native**
 
 - 📦 Check out my past life in print as a Structural Packaging Designer! [Fancy Design Portfolio](https://www.reina-dufrene.com/)
 
