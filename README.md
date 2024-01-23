@@ -1,4 +1,5 @@
 ![Imgur](https://i.imgur.com/w4zTiXs.jpg)
+- 👩‍💻 I'm currently working on: Community Scavenger Hunt application (Solo project | Estimated completion date: 2/4/24 | Full stack: MongoDB/mongoose, Express, React, Node, TailwindCSS)
 
 - 🌱 I’m currently learning: **React and TypeScript**
 
