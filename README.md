@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: **TypeScript, with plans to learn Redux, Next.js, Jest, and React Native**
   
-- 💻 Check out my Software Engineering [portfolio!](https://reiduf.github.io/)
+- 💻 Check out my Software Engineering [portfolio!](https://reina.dufrene.dev))
 
 - 📦 Check out my past life in print as a Structural Packaging Designer! [Fancy Design Portfolio](https://www.reina-dufrene.com/)
 
